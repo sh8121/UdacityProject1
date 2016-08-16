@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UdacityProject1</string>
+    <string name="chocolate">초콜릿</string>
+    <string name="name">이름</string>
+    <string name="order">주문</string>
+    <string name="quantity">수량</string>
+    <string name="toppings">토핑</string>
+    <string name="whipped_cream">휘핑크림</string>
+</resources>
